@@ -1,4 +1,4 @@
-# AlifSolution
+# NotifySolution
 Simple Notify Solution
 
 ## Dependencies
