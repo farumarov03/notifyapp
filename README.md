@@ -1,2 +1,2 @@
 # AlifSolution
-
+Simple notify solution 
