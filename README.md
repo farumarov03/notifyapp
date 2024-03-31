@@ -1,4 +1,4 @@
-# NotifySolution
+# AlifSolution
 Simple Notify Solution
 
 ## Dependencies
@@ -16,3 +16,7 @@ Simple Notify Solution
 > The CardService receives a request for a card transaction, saves it to the database and publishes the event to the channel with the user ID.
 
 > The NotificationService provides the user with an API with the “SSE” technology to subscribe to a channel under their identifier to receive notifications from the server.
+
+## Installing
+* Install .Net Core 7 SDK
+* Install Redis
