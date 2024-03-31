@@ -38,7 +38,7 @@ namespace CardService.src.Managers
             var transactionTasks = new List<Task>();
 
             //imitating some operations
-            //await Task.Delay(10000);
+            await Task.Delay(5000);
 
             //add data to db and return on response user id
             transactionTasks.Add(db.StringSetAsync(transactionId.ToString(), jsonData));
